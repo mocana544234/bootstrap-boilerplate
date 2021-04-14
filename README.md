@@ -14,4 +14,8 @@ Add your theme info here.
 
 _Add your packages and tools here._
 
+### Updates and Tasks
+
 [^1]: Updated README.md
+
+- [] Ask Jacque to explain or do a walkthrough of last class
