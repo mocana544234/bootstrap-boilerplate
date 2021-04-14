@@ -13,3 +13,5 @@ Add your theme info here.
 ### Third Party Tool/Packages
 
 _Add your packages and tools here._
+
+[^1]: Updated README.md
